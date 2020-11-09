@@ -15,3 +15,7 @@ gcc -Wall test.c -o test -L ./ -ldlib 链接动态库生成可执行文件
 
 -Wall 显示所有警告
 
+-fpic 编译成位置无关代码
+
+![image-20201109100343473](C:\Users\running\AppData\Roaming\Typora\typora-user-images\image-20201109100343473.png)
+
