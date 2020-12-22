@@ -1,0 +1,9 @@
+
+dup1 pid = 54440
+argv[0]:test
+argv[1]:hello
+argv[2]:world
+dup1 pid = 54613
+argv[0]:test
+argv[1]:hello
+argv[2]:world
